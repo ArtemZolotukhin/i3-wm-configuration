@@ -8,7 +8,9 @@ This configuration assumes that you are not using DM (lightdm, gdm...)
 
 Copy the files to a your home directory
 
+
 Install dependencies (Arch Linux)
+If you use other linux distribution, you can watch dependencies in file dependencies :)
 
 ```
 $ sudo pacman -S `cat dependencies` --needed
