@@ -15,3 +15,7 @@ If you use other linux distribution, you can watch dependencies in file dependen
 ```
 $ sudo pacman -S `cat dependencies` --needed
 ```
+
+### Recomendations
+
+After installing you should set **Adapta** gtk3 theme and **Papirus Icons** with program **lxappearance** for better look.
