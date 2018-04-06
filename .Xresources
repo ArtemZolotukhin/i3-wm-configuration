@@ -1,0 +1,31 @@
+XTerm.vt100.metaSendsEscape: true
+XTerm.vt100.backarrowKey: false
+XTerm.ttyModes: erase ^?
+XTerm.vt100.saveLines: 4096
+XTerm.vt100.translations: #override \n\
+Ctrl Shift <Key>C: copy-selection(CLIPBOARD) \n\
+Ctrl Shift <Key>V: insert-selection(CLIPBOARD)
+! XTerm.vt100.reverseVideo: true
+xterm*dynamicColors:    on
+xterm*colorMode:        on
+xterm*colorBDMode:      true
+XTerm.vt100.faceName: Monospace Regular:size=10:antialias=false
+
+xterm*background:  #000000
+xterm*foreground:  #ffffff
+xterm*color0:      #222222
+xterm*color8:      #000000
+xterm*color1:      #cc0000
+xterm*color9:      #ff0000
+xterm*color2:      #00cc00
+xterm*color10:     #00ff00
+xterm*color3:      #cccc00
+xterm*color11:     #ffff00
+xterm*color4:      #0000cc
+xterm*color12:     #0000ff
+xterm*color5:      #9c00cc
+xterm*color13:     #c400ff
+xterm*color6:      #00bfd9
+xterm*color14:     #00c1dd
+xterm*color7:      #cccccc
+xterm*color15:     #ffffff
